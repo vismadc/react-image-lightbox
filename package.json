@@ -1,6 +1,6 @@
 {
-  "name": "@visma/react-image-lightbox",
-  "version": "5.1.4",
+  "name": "@vismadigitalcommerce/react-image-lightbox",
+  "version": "5.2.0",
   "description": "A lightbox component for React.js",
   "scripts": {
     "build": "rollup -c",
@@ -28,7 +28,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/frontend-collective/react-image-lightbox.git"
+    "url": "https://github.com/vismadc/react-image-lightbox.git"
   },
   "homepage": "https://frontend-collective.github.io/react-image-lightbox",
   "bugs": "https://github.com/frontend-collective/react-image-lightbox/issues",
